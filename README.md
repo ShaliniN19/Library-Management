@@ -1,4 +1,4 @@
-<img width="1104" height="810" alt="Screenshot 2025-09-17 080000" src="https://github.com/user-attachments/assets/e951be4a-3343-43b3-aa2e-66d0e7369f75" /># Library-Management
+
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 ### PROBLEM STATEMENT:
